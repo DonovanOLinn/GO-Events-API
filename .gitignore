@@ -22,3 +22,7 @@ go.work.sum
 .env
 
 go.sum
+
+.vscode
+api.db
+
