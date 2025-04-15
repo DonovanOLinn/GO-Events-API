@@ -2,7 +2,6 @@ package models
 
 import (
 	"errors"
-	"fmt"
 
 	"example.com/api/db"
 	"example.com/api/utils"
